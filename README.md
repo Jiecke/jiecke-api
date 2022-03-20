@@ -4,6 +4,7 @@
 
 ## Preview
 - [快捷指令](https://www.icloud.com/shortcuts/bb7412ec66984d998d2079a59ab7f5bc)
+
 ![preview](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203202120832.png)
 ## How To Use❓
 #### 1.复制`快捷指令`链接并在iPhone浏览器中打开

@@ -29,5 +29,8 @@
 ## Contribution
 ##### welcome to give issues and pull requests 😆
 
+## Thanks
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+
 ## END
 ##### If you like this repo, please give it a star✨

@@ -17,14 +17,14 @@
 #### 5.等待并完成
 ![step5](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203202134469.PNG)
 ## Todo List
-- [ ] 支持iPhone11、iPhine12、iPhone13等机型📱
-- [ ] 支持快捷指令上传📟
-- [ ] 云函数搭建☁️
+- [x] 支持iPhone11、iPhine12、iPhone13等机型📱
+- [x] 支持快捷指令上传📟
+- [x] 云函数搭建☁️
 - [ ] 支持Mac、iPad、watch带壳截屏💻
 - [ ] 服务器图片缓存📩
 - [ ] 服务器图片定期删除❌
 - [ ] 数据库搭建📨
-- [ ] web端搭建
+- [ ] web端搭建🌐
 
 ## Contribution
 ##### welcome to give issues and pull requests 😆

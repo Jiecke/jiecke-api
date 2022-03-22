@@ -1,10 +1,15 @@
+import imp
 from PIL import Image
 import time
 import os
+import yaml
 
-root_dir = "./template/"
 class Template:
     def __init__(self, iphone_type, fg_image):
+        with open('./config.yml','rb') as f:
+            config = yaml.safe_load(f)
+            root_dir = config['template_path']
+
         self.pre_dir = os.path.join(root_dir, iphone_type)
         self.image_name = os.listdir(self.pre_dir)[0]
         if(self.image_name == '.DS_Store'):

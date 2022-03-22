@@ -3,8 +3,13 @@ from template import Template
 from flask import request, jsonify, make_response
 import time
 import os
+import yaml
 
-photo_dir = "./photo/"
+
+with open('./config.yml','rb') as f:
+    config = yaml.safe_load(f)
+    photo_dir = config['photo_path']
+
 server = flask.Flask(__name__)
 
 @server.route('/ping', methods=['get'])

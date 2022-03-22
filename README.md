@@ -3,7 +3,7 @@
 > 带壳截图生成工具
 
 ## Preview
-- [快捷指令](https://www.icloud.com/shortcuts/bb7412ec66984d998d2079a59ab7f5bc)
+- [快捷指令](https://www.icloud.com/shortcuts/57d39ddaafbc4ce9974ae3b443fa57ea)
 
 ![preview](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203202120832.png)
 ## How To Use❓
@@ -26,6 +26,8 @@
 - [ ] 服务器图片定期删除❌
 - [ ] 数据库搭建📨
 - [ ] web端搭建🌐
+- [ ] 修复jpg上传出错问题❗️
+- [ ] 
 
 ## Contribution
 #### welcome to give issues and pull requests 😆

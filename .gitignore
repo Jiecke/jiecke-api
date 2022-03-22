@@ -9,3 +9,4 @@ photo/
 .DS_Store
 .cache
 *.pyc
+test.*

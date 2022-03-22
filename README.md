@@ -3,7 +3,7 @@
 > 带壳截图生成工具
 
 ## Preview
-- [快捷指令](https://www.icloud.com/shortcuts/57d39ddaafbc4ce9974ae3b443fa57ea)
+- [快捷指令](https://www.icloud.com/shortcuts/af8ced5c770a466c881c3a8237c268ed)
 
 ![preview](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203202120832.png)
 ## How To Use❓

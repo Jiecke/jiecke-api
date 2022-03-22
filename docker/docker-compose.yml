@@ -1,0 +1,16 @@
+version: "3"
+services:
+  jiecke-api:
+    image: "python:3.6"
+    hostname: jiecke-api
+    container_name: jiecke-api
+    volumes:
+      - .././:/usr/src/py
+    ports:
+      - "8080:8080"
+    working_dir: /usr/src/py/
+    environment:
+      - TZ=Asia/Shanghai
+    command: bash /usr/src/py/docker/run.sh
+    network_mode: bridge
+    restart: unless-stopped

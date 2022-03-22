@@ -1,6 +1,6 @@
-# image-convert
+# Jiecke截壳
 
-> 带壳截图生成工具
+> **截壳Jiecke**是一款iPhone、Mac、iPad、Watch截图加壳工具🛠
 
 ## Preview
 - [快捷指令](https://www.icloud.com/shortcuts/af8ced5c770a466c881c3a8237c268ed)
@@ -18,16 +18,12 @@
 #### 5.等待并完成
 ![step5](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203202134469.PNG)
 ## Todo List
-- [x] 支持iPhone11、iPhine12、iPhone13等机型📱
 - [x] 支持快捷指令上传📟
-- [x] 云函数搭建☁️
+- [x] 支持iPhone11、iPhine12、iPhone13等机型📱
+- [ ] 服务器仅做图片处理，不保留数据，保护用户隐私
+- [ ] 支持jpeg、heic等格式
 - [ ] 支持Mac、iPad、watch带壳截屏💻
-- [ ] 服务器图片缓存📩
-- [ ] 服务器图片定期删除❌
-- [ ] 数据库搭建📨
 - [ ] web端搭建🌐
-- [ ] 修复jpg上传出错问题❗️
-- [ ] 
 
 ## Contribution
 #### welcome to give issues and pull requests 😆

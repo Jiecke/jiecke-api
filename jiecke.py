@@ -29,6 +29,8 @@ def ping():
 # 转换图片格式
 def transImg(img_path):
     strs = img_path.rsplit(".", 1)
+    if(len(strs) > 1 and (strs[1] == "png" or strs[1] == "PNG")):
+        return img_path
     output_img_path = strs[0] + ".png"
     print(output_img_path)
     im = Image.open(img_path)

@@ -20,9 +20,9 @@
 ## Todo List
 - [x] 支持快捷指令上传📟
 - [x] 支持iPhone11、iPhine12、iPhone13等机型📱
-- [ ] 服务器仅做图片处理，不保留数据，保护用户隐私
-- [ ] 支持jpeg、heic等格式
-- [ ] 支持Mac、iPad、watch带壳截屏💻
+- [x] 支持Mac、iPad、watch带壳截屏💻
+- [x] 支持jpg图片处理
+- [ ] 服务器定期清理图片
 - [ ] web端搭建🌐
 
 ## Contribution

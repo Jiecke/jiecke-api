@@ -3,8 +3,8 @@
 > **截壳Jiecke**是一款iPhone、Mac、iPad、Watch截图加壳工具🛠
 
 ## Preview
-- [IOS端快捷指令](https://www.icloud.com/shortcuts/9fdaf207c293457b8c6c9d7c41d1fa1e)
-- [MAC端快捷指令](https://www.icloud.com/shortcuts/8d75d224272d42e6b705912d144d5d04)
+- [IOS端快捷指令-20220330](https://www.icloud.com/shortcuts/d3d13ab4ae35499db089cdc452eb9a4f)
+- [MAC端快捷指令-20220330](https://www.icloud.com/shortcuts/be8325a570a34509bca04cd06ee6b541)
 
 ![preview](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203292230141.png)
 ## How To Use❓
